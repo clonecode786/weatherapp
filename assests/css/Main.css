@@ -1,0 +1,44 @@
+.weather-cls {
+    background-color: lightblue;
+    text-align: center;    
+  }
+
+.search{
+    margin: 5%;
+}
+input{
+    width: 50%;    
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+#searchButton {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  #tempview{
+      background-color: white;
+      border: 1px solid black;
+      border-radius: 5px;
+      padding: 15px 32px;
+    text-align: center;
+    width: 50%;
+  }
+ #validdetails{
+     color:red;
+     font-size: 30px;
+     margin-left:20%;
+     text-align: left;
+
+ }
